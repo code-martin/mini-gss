@@ -1,6 +1,6 @@
 # mini-gss
 Minimalistic and branchless implementation of Golden Section Search.
-
+```
 I:  0 [-4.00,+0.94=>+0.222912]
 I:  1 [-4.00,-0.94=>+0.222912]
 I:  2 [-2.83,-0.94=>+0.012422]
@@ -17,3 +17,4 @@ I: 12 [-2.01,-1.99=>+0.000002]
 I: 13 [-2.01,-2.00=>+0.000002]
 
 Minimum in [-4, 4]: -2.00147
+```
